@@ -51,8 +51,6 @@ CWD = os.getcwd()
 DEFAULT_CONFIG = os.path.join(CWD, "minero.conf")
 API_URL = "https://whattomine.com/coins.json"
 IS_WIN32 = sys.platform == "win32"
-MULTI_MINERS = False
-SLEEP_TIMER = 5
 
 CONF_TPL = """
 ;--------------------------------------

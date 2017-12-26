@@ -37,7 +37,9 @@ for it to run.
 ### Config
 
 In the directory that you are going to run Minero, you can either
-set the config, or let minero do it for you `python minero.py --init`
+set the config, or let minero do it for you
+
+    python minero.py --init
 
 Or you can copy the content below in `minero.conf`
 
