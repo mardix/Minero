@@ -27,7 +27,12 @@ You must provide list of application to run in `minero.conf`
 `Minero` is simple, you can either clone this repo to your local, or you can just
 copy the content of `minero.py` and paste it in a file on your local called `minero.py`
 
-It's a python application, therefore you will need to type `python minero.py` for it to run.
+It's a python application, therefore you will need to type
+
+    python minero.py
+
+for it to run.
+
 
 ### Config
 
@@ -52,7 +57,9 @@ ZEC = C:\YOUR-CLAYMORE-OR-OTHER-PROGRAM-PATH\start_zec.bat
 
 ### Run
 
-Once setup, just run `python minero.py --run` and profit!
+Once setup, just run the line below and profit!
+
+    python minero.py --run
 
 ### Extra
 
@@ -64,18 +71,25 @@ Or you own profitable coins
 
     python minery.py --list
 
+
 ---
 
 If you like this script and would like to donate, please do and thank you:
 
 BTC: 1H94UsPEM315S1xrfWMZuxSHqJxyXnZGom
+
 LTC: LNmCDfjMLAj7m3qaqCdnQ8iHhCeuzquStA
+
 BCH: 1CQmM5ev9UR8UtETp9CKdw7kMcsDuAgebZ
+
 ETH: 0x240a68f6ed12772cea76d0000a53983202d1861d
 
 Author: Mardix
+
 Email: mardix@illybee.com
+
 License: MIT
+
 Copyright: 2018 - Mardix
 
 
